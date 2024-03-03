@@ -18,7 +18,7 @@ var lines = input.split('\n');//configuracao
 
 var A = parseFloat(lines.shift());//Entrada
 var B = parseFloat(lines.shift());//Entrada
-var C = parseFloat(lines.shift());
+var C = parseFloat(lines.shift());//Entrada
 var pesoA = 2;//Entrada
 var pesoB = 3;//Entrada
 var pesoC = 5;//Entrada
