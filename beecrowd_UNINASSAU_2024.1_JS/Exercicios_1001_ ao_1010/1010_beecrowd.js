@@ -16,7 +16,7 @@ var input = require('fs').readFileSync('/dev/stdin', 'utf8');//configuracao
 var linesPrincipal = input.split('\n');//configuracao
 
 var lines1 = linesPrincipal.shift().split(" ")//cofiguracao para exibir o resultado em 1 linha com espaco entre os valores 
-var lines2 = linesPrincipal.shift().split(" ")//cofiguracao para exibir o resultado em 1 linha com espaco entre os valores
+var lines2 = linesPrincipal.shift().split(" ")//configuracao para exibir o resultado em 1 linha com espaco entre os valores
 
 var codigoPeca1 = parseInt(lines1.shift());//Entrada
 var numeroDePeca1 = parseInt(lines1.shift());//Entrada
